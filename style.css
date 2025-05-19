@@ -1,0 +1,32 @@
+:root {
+  --bs-primary: #001f3f; /* Navy Blue */
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+  font-family: cursive, sans-serif;
+}
+
+table th, table td {
+  vertical-align: middle;
+}
+
+button.edit {
+  background-color: #afdcef;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+button.delete {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
